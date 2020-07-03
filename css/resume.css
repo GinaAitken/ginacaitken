@@ -10,6 +10,18 @@ body {
   color: #868e96;
 }
 
+.btn-primary {
+  color: #fff;
+  background-color: #6a4b86;
+  border-color: #6a4b86;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #533b68;
+  border-color: #533b68;
+}
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
